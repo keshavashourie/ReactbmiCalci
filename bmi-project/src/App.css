@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.form-center
+{
+  align-self: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttoncss
+{
+  align-content: center;
+  justify-content: center;
+  width: 25vh;
+  height: 55px;
+  border-radius: 55px;
+  border-color: crimson,chartreuse,white;
+  align-self: center;
+  color:white;
+  background-color: coral;
+}
+
+.tablecss
+{
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.center
+{
+  width: 50vh;
+  height:5vh;
+  display:flex;
+  flex-direction: column;
+  align-self: center;
+  padding:10px;
+  align-content: center;
+  margin-left: 25vh;
+  margin-right: 25vh;
+  border-radius: 22px;
+  justify-content: center;
+
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
